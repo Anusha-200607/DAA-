@@ -1,32 +1,17 @@
-# ShopSphere E-Commerce Platform – Scalability Audit
+# CSA06 DAA CO1 – ShopSphere Scalability Audit
 
-## Course
-CSA06 – Design and Analysis of Algorithms
+This repository contains the solution write-up and a small Python script to verify selected operation counts for the Design and Analysis of Algorithms assessment.
 
-## Assessment
-CO1 – Scalability Audit of the ShopSphere E-Commerce Platform
+## Contents
+- `ANSWER.md` — full answer for parts (a)–(g)
+- `calculations.py` — verifies operation-count and time estimates
+- `README.md` — repository overview
+- `.gitignore` — excludes common temporary files
 
-## Objective
-To analyze the time and space complexity of the ShopSphere modules, solve recurrence relations, compare searching algorithms, and evaluate scalability.
+## Before submission
+1. Replace the student-name and registration-number placeholders in `ANSWER.md`.
+2. Review the derivations and confirm you understand them.
+3. Run `python calculations.py` in a terminal to check the numeric calculations.
+4. Upload the files to your GitHub repository and submit that repository URL through the official course portal.
 
-## Topics Covered
-- Input size and basic operations
-- Time and space complexity
-- Recurrence relations
-- Master Theorem
-- Best, average, and worst-case analysis
-- Asymptotic notation
-- Operation-count and execution-time estimates
-
-## Files
-- `ANSWER.md` – Detailed theoretical answers
-- `calculations.py` – Python calculations for numerical estimates
-- `ShopSphere_DAA_Assignment.docx` – Assignment document, if included
-
-## Software Used
-- Python 3
-- GitHub
-- Microsoft Word
-
-## Result
-The assignment evaluates algorithm efficiency and identifies which modules may require redesign to meet scalability requirements.
+**Important:** This repository is a draft study/assignment aid. Check your institution's academic-integrity rules and ensure the submitted work is your own. No college portal submission is performed automatically.
