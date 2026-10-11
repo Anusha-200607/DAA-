@@ -1,0 +1,13 @@
+n,algorithm,preprocessing_seconds,search_seconds_median,test
+1000,Iterative linear search,0.0,2.927399999919089e-05,absent target (worst case)
+1000,Recursive binary search,4.277399999352838e-05,1.5720000021701708e-06,absent target (worst case)
+1000,Hash-table lookup,4.666099999894868e-05,1.9099999803984247e-07,absent target (expected O(1) lookup)
+10000,Iterative linear search,0.0,0.0003204329999988431,absent target (worst case)
+10000,Recursive binary search,0.0009947810000028312,1.843000006829243e-06,absent target (worst case)
+10000,Hash-table lookup,0.0005571309999936602,1.8100000431786611e-07,absent target (expected O(1) lookup)
+100000,Iterative linear search,0.0,0.003581124999996632,absent target (worst case)
+100000,Recursive binary search,0.014031446999993591,2.0030000058568476e-06,absent target (worst case)
+100000,Hash-table lookup,0.00929764299999647,1.500000053056283e-07,absent target (expected O(1) lookup)
+1000000,Iterative linear search,0.0,0.1484800340000021,absent target (worst case)
+1000000,Recursive binary search,0.2654797150000121,2.3739999903682474e-06,absent target (worst case)
+1000000,Hash-table lookup,0.2613685489999966,1.8000000068241206e-07,absent target (expected O(1) lookup)
